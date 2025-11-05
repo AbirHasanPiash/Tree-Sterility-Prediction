@@ -15,7 +15,7 @@ The dataset consists of both **categorical** and **numerical** features related 
 Key attributes include:
 - **Light ISF**, **Soil**, **Myco**, **Phenolics**, **Lignin**, **NSC**, and **Census Time**
 - The target variable: **Sterile** (binary — Sterile or Non-Sterile)
-[Dataset]()
+[Dataset](https://drive.google.com/file/d/1-cWAGN22-OrZhLLLXiKY1V7XIp88ZOrf/view?usp=sharing)
 
 Due to data confidentiality, the original dataset cannot be shared publicly. However, the structure and preprocessing steps are fully documented in the notebook.
 
